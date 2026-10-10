@@ -1,0 +1,15 @@
+
+fastapi
+uvicorn[standard]
+python-dotenv
+httpx
+sqlalchemy
+asyncpg
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-postgres
+langchain-openrouter
+langchain-core
+sentence-transformers
+pymupdf
